@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/ButtonSwap/bin/Debug
+/ButtonSwap/obj/Debug
+/ButtonSwap/.vs/ButtonSwap/FileContentIndex
+/ButtonSwap/.vs/ButtonSwap/v17
